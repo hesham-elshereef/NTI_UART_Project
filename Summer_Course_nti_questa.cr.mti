@@ -1,0 +1,15 @@
+C:/NTI_SummerCorse/Project_NTI/TX.v {1 {vlog -work work -vopt -stats=none C:/NTI_SummerCorse/Project_NTI/TX.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module uart_tx
+
+Top level modules:
+	uart_tx
+
+} {} {}} C:/NTI_SummerCorse/Project_NTI/tx_tb.v {1 {vlog -work work -vopt -stats=none C:/NTI_SummerCorse/Project_NTI/tx_tb.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module uart_tx_tb
+
+Top level modules:
+	uart_tx_tb
+
+} {} {}}
